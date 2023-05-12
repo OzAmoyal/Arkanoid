@@ -1,6 +1,7 @@
 # Arkanoid Game
 An implementation of the nostalgic Arkanoid brick breaker game using Java.
 Arkanoid is a classic brick-breaking game where the player controls a paddle to deflect a ball against a wall of bricks. The goal of the game is to clear all of the bricks by breaking them. The player can lose the game by letting the ball fall below the bottom of the screen.
+
 ## Project Structure
 The project is structured using the Model-View-Controller (MVC) design pattern. The model represents the game state, such as the position of the paddle, the ball, and the bricks. The view is responsible for displaying the game state to the user. The controller is responsible for handling user input and updating the game state.
 
@@ -25,11 +26,19 @@ The project is divided into folders to organize the code and make it easier to f
 ## Usage
 
 1. Download the project from GitHub.
-    ``` git clone https://github.com/OzAmoyal/Arkanoid.git ```
+```
+git clone https://github.com/OzAmoyal/Arkanoid.git
+```
 2. Open a terminal window and navigate to the project directory.
 3. Run the following command to compile and run:
-```ant run``` to play a usual 4 levels implemented or
-```ant -Dargs="1 2 3 4 ...."``` to run to select a specific level order.
+```
+ant run
+``` 
+to play a usual 4 levels implemented or
+```
+ant run -Dargs="1 2 3 4 ...."
+``` 
+to run to select a specific level order.
 
 ## Controls
 
@@ -37,4 +46,8 @@ The project is divided into folders to organize the code and make it easier to f
 * Press 'P' to pause the game and resume it.
 
 ## Screenshots:
-<img src ="https://user-images.githubusercontent.com/93612510/171703696-a9af6ffd-b0c2-4afd-9605-49df49ec1192.png" width=400 height=300 />
+<img src ="https://github.com/OzAmoyal/Arkanoid/assets/93612510/fe24eec7-9ac7-47a7-9e3d-ddf7f122790d" width=500 height=400 /><img src ="https://user-images.githubusercontent.com/93612510/171703696-a9af6ffd-b0c2-4afd-9605-49df49ec1192.png" width=500 height=400 />
+<img src ="https://github.com/OzAmoyal/Arkanoid/assets/93612510/1c1876cc-2c0e-42dd-8de9-f9b43100c8bf" width=500 height=400 /><img src ="https://github.com/OzAmoyal/Arkanoid/assets/93612510/45d30677-67bb-4886-85e0-fe641475296e" width=500 height=400 />
+<img src ="https://github.com/OzAmoyal/Arkanoid/assets/93612510/b16ca9fe-ef91-4bd1-bd91-ddf3f1994360" width=500 height=400 /><img src ="https://github.com/OzAmoyal/Arkanoid/assets/93612510/18bec4a9-7754-4fdf-837c-beabd47bbe80" width=500 height=400 />
+#### Acknowledgments
+This project was created as part of a programming assignment in Object Oriented Programming Course by the instruction of Dr. Hemi Leibowitz.
