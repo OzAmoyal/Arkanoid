@@ -46,8 +46,8 @@ to run to select a specific level order.
 * Press 'P' to pause the game and resume it.
 
 ## Screenshots:
-<img src ="https://github.com/OzAmoyal/Arkanoid/assets/93612510/fe24eec7-9ac7-47a7-9e3d-ddf7f122790d" width=500 height=400 /><img src ="https://user-images.githubusercontent.com/93612510/171703696-a9af6ffd-b0c2-4afd-9605-49df49ec1192.png" width=500 height=400 />
-<img src ="https://github.com/OzAmoyal/Arkanoid/assets/93612510/1c1876cc-2c0e-42dd-8de9-f9b43100c8bf" width=500 height=400 /><img src ="https://github.com/OzAmoyal/Arkanoid/assets/93612510/45d30677-67bb-4886-85e0-fe641475296e" width=500 height=400 />
-<img src ="https://github.com/OzAmoyal/Arkanoid/assets/93612510/b16ca9fe-ef91-4bd1-bd91-ddf3f1994360" width=500 height=400 /><img src ="https://github.com/OzAmoyal/Arkanoid/assets/93612510/18bec4a9-7754-4fdf-837c-beabd47bbe80" width=500 height=400 />
+<img src ="https://github.com/OzAmoyal/Arkanoid/assets/93612510/fe24eec7-9ac7-47a7-9e3d-ddf7f122790d" width=400 height=350 /><img src ="https://user-images.githubusercontent.com/93612510/171703696-a9af6ffd-b0c2-4afd-9605-49df49ec1192.png" width=400 height=350 />
+<img src ="https://github.com/OzAmoyal/Arkanoid/assets/93612510/1c1876cc-2c0e-42dd-8de9-f9b43100c8bf" width=400 height=350 /><img src ="https://github.com/OzAmoyal/Arkanoid/assets/93612510/45d30677-67bb-4886-85e0-fe641475296e" width=400 height=350 />
+<img src ="https://github.com/OzAmoyal/Arkanoid/assets/93612510/b16ca9fe-ef91-4bd1-bd91-ddf3f1994360" width=400 height=350 /><img src ="https://github.com/OzAmoyal/Arkanoid/assets/93612510/18bec4a9-7754-4fdf-837c-beabd47bbe80" width=400 height=350 />
 #### Acknowledgments
 This project was created as part of a programming assignment in Object Oriented Programming Course by the instruction of Dr. Hemi Leibowitz.
